@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//Creado por Anuar De la Vega Márquez, ESCOM, 10/06/2022
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
